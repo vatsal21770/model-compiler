@@ -4,6 +4,8 @@ torch==2.13.0+cpu
 torchvision==0.28.0+cpu
 onnx==1.22.0
 onnxruntime==1.23.2
+onnx_ir==0.2.1 
+onnxscript==0.7.1
 numpy==2.2.6
 pillow==12.2.0
 tqdm==4.69.0
